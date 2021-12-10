@@ -1,5 +1,5 @@
 - Hi, I’m @MansurBesleney
-- I’m currently a Computer Science student at Dumlupınar Univercity in Turkey.
+- I’m currently a Computer Science student at Dumlupınar University in Turkey.
 - You can reach me via besleneymansur@gmail.com
 
 <!---
