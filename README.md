@@ -1,5 +1,5 @@
 - Hi, I’m @MansurBesleney
-- I’m currently a full stack developer in Turkey.
+- I’m currently a software developer in Türkiye.
 - You can reach me via besleneymansur@gmail.com
 
 <!---
